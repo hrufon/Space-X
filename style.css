@@ -1,9 +1,6 @@
-@media screen and (min-width: 960px){
 body, html {
 background-color: black;
 margin: 0 auto;
-}
-
 }
 
 #container{
@@ -399,8 +396,11 @@ margin-top: -30px;
 }
 
 .container3 div hr{
-width: 95%;
-background-color: #597491;
+position: absolute;
+width: 85%;
+margin-left: 130px;
+margin-top: -10px;
+background-color:  #000;
 border: 1px solid #597491;
 }
 
